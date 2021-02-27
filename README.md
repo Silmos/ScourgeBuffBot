@@ -1,0 +1,1 @@
+Bot to copy messages from HordeUnited #confirmed-pop to another guild discord
