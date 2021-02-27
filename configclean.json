@@ -1,0 +1,14 @@
+{
+    "bot": {
+        "token": "DiscordBot Token Here"
+    },
+    "hordeunited": {
+        "hudiscordid": "ID of the HordeUnited Discord",
+        "huchannelid": "ID of the #confirmed-pop channel",
+        "hurendid": "ID of the rend channel",
+        "hudragonid": ["ID of the onyxia channel", "ID of the nefarian channel"],
+        "huhakkarid": "ID of the hakkar channel"
+    },
+    "intervalfordeletes": TimeInMinutes,
+    "maxmessageage": TimeInMinutes 
+}

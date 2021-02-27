@@ -1,0 +1,11 @@
+{
+    "guildconfigs": [{
+        "guildname": "guildname here just for overview",
+        "channelid": "ID of your announcement channel",
+        "guildid": "ID of your guild discord",
+        "mentionrole": PingGroupForBuffs,
+        "rendrole": "RollID for rend buffs",
+        "hakkarrole": "RollID for hakkar buffs",
+        "dragonrole": "RollID for dragon buffs"
+}]
+}
