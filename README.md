@@ -34,7 +34,9 @@ If you are also on Transcendence-Horde and want updates from my bot, just contac
 I recommend you to setup your own carl-bot to create a reaction role embed. Create three emotes for hakkar, rend and dragon buffs. If a user click them, assign the role to them so they get directly pinged if a buff is known.
 
 You also need to invite the bot to your server.
+
 https://discord.com/oauth2/authorize?client_id=814948099638296657&scope=bot&permissions=0
+
 The bot will not have any permissions, so you need to enable the following permissions for your announcement channel:
 * Show Channel
 * Send Messages
