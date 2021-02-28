@@ -1,7 +1,7 @@
 # ScourgeBuffBot
 ## Discord Bot
 
-![alt text](https://i.imgur.com/ptoAn69.png)
+![alt text](https://i.imgur.com/4Ge69KX.png)
 
 This is a bot to copy carlbot embeds from a server and paste them on another.
 Works with multiple dicord servers and includes some bonus features
