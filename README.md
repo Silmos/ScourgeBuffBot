@@ -49,4 +49,5 @@ Official Documentation: https://support.discord.com/hc/en-us/articles/206346498-
 
 ## Credits
 Programmed (badly) by myself
+
 discordgo - https://github.com/bwmarrin/discordgo
